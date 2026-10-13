@@ -1,9 +1,7 @@
-import "./styles.css";
-
-
 import { useCallback, useEffect, useRef, useState } from "react";
 import ProductCard from "./ProductCard";
 import Loading from "./Loading";
+import "./styles.css";
 
 const API_URL = "https://dummyjson.com/products";
 const LIMIT = 12;
