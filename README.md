@@ -1,2 +1,2 @@
 # day-06
-Created with CodeSandbox
+Infinite Scroll
